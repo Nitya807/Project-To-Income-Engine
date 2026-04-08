@@ -1,4 +1,4 @@
-[cite_start]Based on the **Project-to-Income Engine** problem statement from the VibeHack document[cite: 22], here is a professional and comprehensive `README.md` content for your GitHub repository.
+Based on the **Project-to-Income Engine** problem statement from the VibeHack document, here is a professional and comprehensive `README.md` content for your GitHub repository.
 
 ---
 
@@ -6,18 +6,18 @@
 ### *From Student Project to Monetizable Idea*
 
 ## 📌 Overview
-[cite_start]The **Project-to-Income Engine** is a platform designed to bridge the gap between academic innovation and real-world commercialization[cite: 29]. [cite_start]While students build numerous technical projects, they often lack the roadmap to convert these into sustainable income or professional opportunities[cite: 25]. [cite_start]This engine analyzes project details to suggest viable monetization paths, target audiences, and pricing strategies[cite: 27, 32].
+The **Project-to-Income Engine** is a platform designed to bridge the gap between academic innovation and real-world commercialization. While students build numerous technical projects, they often lack the roadmap to convert these into sustainable income or professional opportunities.This engine analyzes project details to suggest viable monetization paths, target audiences, and pricing strategies.
 
 ## 🛠️ Problem Statement
-[cite_start]Students frequently build high-quality projects but struggle to understand their market value or how to transition them into revenue-generating products[cite: 25]. [cite_start]Our solution provides a structured framework to translate technical work into real-world value[cite: 29, 30].
+Students frequently build high-quality projects but struggle to understand their market value or how to transition them into revenue-generating products. Our solution provides a structured framework to translate technical work into real-world value.
 
 ## ✨ Key Features
-[cite_start]As per the core requirements, the platform includes[cite: 30]:
-* [cite_start]**Project Analysis Engine:** Input your project idea and technical stack for a deep-dive evaluation[cite: 31].
-* [cite_start]**Monetization Roadmap:** AI-driven suggestions for converting projects into SaaS, freelancing services, or digital products.
-* [cite_start]**Market Insights:** Identification of potential **Target Users** who would benefit from the solution[cite: 33].
-* [cite_start]**Strategic Pricing:** Suggested **Pricing Ideas** and revenue models (subscription, one-time, freemium).
-* [cite_start]**Structured Output:** Clear, actionable reports that define the next steps for the student.
+As per the core requirements, the platform includes:
+**Project Analysis Engine:** Input your project idea and technical stack for a deep-dive evaluation.
+**Monetization Roadmap:** AI-driven suggestions for converting projects into SaaS, freelancing services, or digital products.
+**Market Insights:** Identification of potential **Target Users** who would benefit from the solution.
+**Strategic Pricing:** Suggested **Pricing Ideas** and revenue models (subscription, one-time, freemium).
+**Structured Output:** Clear, actionable reports that define the next steps for the student.
 
 ## 💻 Tech Stack
 * **Frontend:** [Add your framework, e.g., React / Next.js]
